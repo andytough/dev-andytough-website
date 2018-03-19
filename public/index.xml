@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction on Andy Tough</title>
+    <link>http://dev.andytough.com/</link>
+    <description>Recent content in Introduction on Andy Tough</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 17 Mar 2018 01:03:26 +0000</lastBuildDate>
+    
+	<atom:link href="http://dev.andytough.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>http://dev.andytough.com/contact/</link>
+      <pubDate>Sat, 17 Mar 2018 01:08:29 +0000</pubDate>
+      
+      <guid>http://dev.andytough.com/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testimonials</title>
+      <link>http://dev.andytough.com/testimonials/</link>
+      <pubDate>Sat, 17 Mar 2018 01:08:15 +0000</pubDate>
+      
+      <guid>http://dev.andytough.com/testimonials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>http://dev.andytough.com/portfolio/</link>
+      <pubDate>Sat, 17 Mar 2018 01:07:29 +0000</pubDate>
+      
+      <guid>http://dev.andytough.com/portfolio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Articles</title>
+      <link>http://dev.andytough.com/articles/</link>
+      <pubDate>Sat, 17 Mar 2018 00:29:57 +0000</pubDate>
+      
+      <guid>http://dev.andytough.com/articles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fifth</title>
+      <link>http://dev.andytough.com/articles/fifth/</link>
+      <pubDate>Thu, 15 Mar 2018 16:19:03 +0000</pubDate>
+      
+      <guid>http://dev.andytough.com/articles/fifth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fourth</title>
+      <link>http://dev.andytough.com/articles/fourth/</link>
+      <pubDate>Thu, 15 Mar 2018 09:42:01 +0000</pubDate>
+      
+      <guid>http://dev.andytough.com/articles/fourth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Third</title>
+      <link>http://dev.andytough.com/articles/third/</link>
+      <pubDate>Thu, 15 Mar 2018 09:29:12 +0000</pubDate>
+      
+      <guid>http://dev.andytough.com/articles/third/</guid>
+      <description>Some content in my third post. It will be intersting to see how much is displayed on the intro page.
+It will be intersting to see how much is displayed on the intro page. It will be intersting to see how much is displayed on the intro page. It will be intersting to see how much is displayed on the intro page. It will be intersting to see how much is displayed on the intro page.</description>
+    </item>
+    
+    <item>
+      <title>Second</title>
+      <link>http://dev.andytough.com/articles/second/</link>
+      <pubDate>Thu, 15 Mar 2018 09:11:18 +0000</pubDate>
+      
+      <guid>http://dev.andytough.com/articles/second/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>http://dev.andytough.com/articles/first/</link>
+      <pubDate>Thu, 15 Mar 2018 09:11:08 +0000</pubDate>
+      
+      <guid>http://dev.andytough.com/articles/first/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
