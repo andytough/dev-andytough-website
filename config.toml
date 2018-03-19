@@ -3,7 +3,7 @@ languageCode = "en"
 title = "Andy Tough"
 #theme = "hyde"
 theme = "at-minimal"
-publishDir = "/Users/andy/Desktop/pub"
+#publishDir = "/Users/andy/Desktop/pub"
 #archetypeDir = "themes/at-minimal/archetypes"
 
 [params]
