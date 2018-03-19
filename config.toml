@@ -1,0 +1,49 @@
+baseURL = "http://example.org/"
+languageCode = "en"
+title = "Andy Tough"
+#theme = "hyde"
+theme = "at-minimal"
+publishDir = "/Users/andy/Desktop/pub"
+#archetypeDir = "themes/at-minimal/archetypes"
+
+[params]
+description = "Andy Tough Hugo Site hp"
+author = "Andy Tough hp"
+copyrightstartdate = "2001"
+copyright = "Andy Tough. All Rights Reserved."
+sectionPagesMenu = "main"
+
+[[menu.main]]
+    name = "INTRODUCTION"
+#    title = "Introduction title"
+    weight = -200
+    identifier = "Introduction"
+    url = "/"
+
+[[menu.main]]
+    name = "TESTIMONIALS"
+#    title = "Testimonials title"
+    weight = -200
+    identifier = "Testimonials"
+    url = "/testimonials/"
+
+[[menu.main]]
+    name = "PORTFOLIO"
+#    title = "Portfolio title"
+    weight = -190
+    identifier = "Portfolio"
+    url = "/portfolio/"
+    
+[[menu.main]]
+    name = "ARTICLES"
+#    title = "Articles title"
+    weight = -180
+    identifier = "Articles"
+    url = "/articles/"
+    
+[[menu.main]]
+    name = "CONTACT"
+#    title = "Articles title"
+    weight = -170
+    identifier = "Contact"
+    url = "/contact/"

@@ -1,0 +1,12 @@
+  <!-- Navigation
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+   <div class="row">
+        <div class="twelve columns nav">
+<nav>
+{{ $url := .URL }}
+    {{ range .Site.Menus.main }}
+    <a class="{{ if eq $url .URL }}active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+    {{ end }}
+</nav>
+        </div> <!-- twelve columns -->
+    </div>  <!-- row columns -->
