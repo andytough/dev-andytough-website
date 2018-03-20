@@ -11,3 +11,38 @@ copyrightstartdate = "2001"
 copyright = "Andy Tough. All Rights Reserved."
 sectionPagesMenu = "main"
 
+[menu]
+[[menu.main]]
+    identifier = "introduction"
+    name = "Introduction"
+    title = "Introduction"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    identifier = "testimonials"
+    name = "Testimonials"
+    title = "Testimonials"
+    url = "/testimonials/"
+    weight = 5
+
+[[menu.main]]
+    identifier = "portfolio"
+    name = "Portfolio"
+    title = "Portfolio"
+    url = "/portfolio/"
+    weight = 10
+
+[[menu.main]]
+    identifier = "articles"
+    name = "Articles"
+    title = "Articles"
+    url = "/articles/"
+    weight = 15
+
+[[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    title = "Contact Me"
+    url = "/contact/"
+    weight = 20
