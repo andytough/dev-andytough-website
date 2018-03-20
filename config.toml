@@ -1,9 +1,7 @@
-baseURL = "http://dev.andytough.com/"
+baseURL = "https://dev.andytough.com/"
 languageCode = "en"
 title = "Andy Tough"
-#theme = "hyde"
 theme = "at-minimal"
-#publishDir = "/Users/andy/Desktop/pub"
 #archetypeDir = "themes/at-minimal/archetypes"
 
 [params]
