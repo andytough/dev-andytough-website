@@ -4,7 +4,7 @@ backend:
 media_folder: "static/images" # Folder where user uploaded files should go
 public_folder: "images"
 collections:
-  - name: "posts" # Used in routes, e.g., /admin/collections/blog
+  - name: "articles" # Used in routes, e.g., /admin/collections/blog
     label: "Articles" # Used in the UI
     folder: "content/articles/" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
