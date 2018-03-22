@@ -18,6 +18,8 @@
         <link rel="apple-touch-icon" href="icon.png">
         <!-- Place favicon.ico in the root directory -->
 
+  {{ template "_internal/google_analytics.html" . }}
+
         <link rel="stylesheet" href="{{ .Site.BaseURL }}css/normalize.css">
         <link rel="stylesheet" href="{{ .Site.BaseURL }}css/skeleton.css">
   {{ partial "head_fonts.html" . }}        
