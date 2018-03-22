@@ -3,6 +3,7 @@ languageCode = "en"
 title = "Andy Tough"
 theme = "at-minimal"
 #archetypeDir = "themes/at-minimal/archetypes"
+googleAnalytics = "UA-8414026-7"
 
 [params]
 description = "Andy Tough Hugo Site hp"
