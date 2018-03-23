@@ -1,6 +1,6 @@
 {{ define "main" -}}
 <div class="posts">
-{{ range .Data.Pages -}}
+{{ range (.Paginator 5).Pages -}} <!-- Limit pages in list -->
 <div class="post">
   <h1 class="post-title">
     <a href="{{ .Permalink }}">{{ .Title }}</a>
@@ -14,5 +14,6 @@
   {{ end }}
 </div>
 {{- end }}
+{{ template "_internal/pagination.html" . }} <!-- Pagination index -->
 </div>
 {{- end }}
