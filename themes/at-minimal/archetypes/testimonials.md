@@ -4,5 +4,4 @@ date: {{ .Date }}
 draft: false
 testimonialauthor: 
 role: 
-thumbnail: 
 ---
