@@ -5,3 +5,5 @@ draft: false
 thumbnail: /images/andy-tough_bwv3-ncms.jpg
 ---
 This is a testimonial page
+
+![Added via content window](/images/andy-tough_bwv3-ncms.jpg)
