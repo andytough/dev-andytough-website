@@ -3,4 +3,4 @@ public/*
 
 # exception to the rule
 !public/.gitkeep 
-!public/images.gitkeep
+!public/images/.gitkeep
