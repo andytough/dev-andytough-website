@@ -5,4 +5,4 @@ draft: false
 ---
 This is the fifth post. It has a picture of a dog in it now.
 
-![Dog](/images/img_2680v4.jpg)
+![Dog](/images/img_2680v3.jpg)
