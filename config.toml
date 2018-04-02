@@ -4,7 +4,8 @@ title = "Andy Tough"
 theme = "at-minimal"
 #archetypeDir = "themes/at-minimal/archetypes"
 googleAnalytics = "UA-8414026-7"
-publishDir = "/Users/andy/Desktop/HugoPublish"
+#publishDir = "/Users/andy/Desktop/HugoPublish"
+
 [params]
 description = "Andy Tough Hugo Site hp"
 author = "Andy Tough hp"
