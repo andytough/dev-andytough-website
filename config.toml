@@ -48,3 +48,8 @@ sectionPagesMenu = "main"
     title = "Contact Me"
     url = "/contact/"
     weight = 20
+    
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
