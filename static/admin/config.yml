@@ -18,6 +18,8 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Draft", name: "draft", widget: "boolean", default: true}
       - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Sitemap priority", name: "priority", widget: "select", options: ["0.0", "0.5","1.0"]}    
+      - {label: "Sitemap change frequency", name: "changefreq", widget: "select", options: ["daily", "weekly", "monthly","yearly"]}    
   - name: "pages" # Used in routes, e.g., /admin/collections/blog
     label: "Pages" # Used in the UI
     folder: "content/" # The path to the folder where the documents are stored
@@ -38,13 +40,4 @@ collections:
       - {label: "Testimonial author", name: "testimonialauthor", widget: "string"}
       - {label: "Testimonial role", name: "role", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
-  - name: "changefreq"
-    label: "Sitemap change frequency"
-    folder: "content/" # The path to the folder where the documents are stored
-    widget: "select"
-    options: ["daily", "weekly", "monthly","yearly"]
-  - name: "priority"
-    label: "Sitemap priority"
-    folder: "content/" # The path to the folder where the documents are stored
-    widget: "select"
-    options: ["0.0", "0.5", "1.0"]
+#    Correction to Netlify config file to incorporate page specific sitemap options.
