@@ -4,6 +4,6 @@ date: {{ .Date }}
 draft: false
 menu: "main"
 sitemap:
-  changefreq: "monthly"
+  changefreq: monthly
   priority: 0.5
 ---

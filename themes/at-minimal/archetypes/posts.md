@@ -3,6 +3,6 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: false
 sitemap:
-  changefreq: "monthly"
+  changefreq: monthly
   priority: 0.5
 ---

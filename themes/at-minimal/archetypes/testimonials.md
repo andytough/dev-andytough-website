@@ -5,6 +5,6 @@ draft: false
 testimonialauthor: 
 role: 
 sitemap:
-  changefreq: "monthly"
+  changefreq: monthly
   priority: 0.5
 ---

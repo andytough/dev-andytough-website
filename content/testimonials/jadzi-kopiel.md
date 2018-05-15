@@ -1,11 +1,11 @@
 ---
-title: "Jadzia Kopiel"
+title: Jadzia Kopiel
 date: 2018-03-27T08:00:54+01:00
 draft: false
-testimonialauthor: "Jadzia"
-role: "Life Coach"
+testimonialauthor: Jadzia
+role: Life Coach
 sitemap:
-  changefreq: "daily"
+  changefreq: daily
   priority: 1.0
 ---
 This is the content in Jadzia's testimonial. This is the content in Jadzia's testimonial. This is the content in Jadzia's testimonial. This is the content in Jadzia's testimonial. This is the content in Jadzia's testimonial. This is the content in Jadzia's testimonial. This is the content in Jadzia's testimonial. This is the content in Jadzia's testimonial. This is the content in Jadzia's testimonial. This is the content in Jadzia's testimonial. This is the content in Jadzia's testimonial. This is the content in Jadzia's testimonial. This is the content in Jadzia's testimonial. This is the content in Jadzia's testimonial. This is the content in Jadzia's testimonial. This is the content in Jadzia's testimonial. This is the content in Jadzia's testimonial. This is the content in Jadzia's testimonial. This is the content in Jadzia's testimonial. This is the content in Jadzia's testimonial. This is the content in Jadzia's testimonial. This is the content in Jadzia's testimonial. This is the content in Jadzia's testimonial. This is the content in Jadzia's testimonial. This is the content in Jadzia's testimonial. This is the content in Jadzia's testimonial. This is the content in Jadzia's testimonial. This is the content in Jadzia's testimonial. This is the content in Jadzia's testimonial. This is the content in Jadzia's testimonial. This is the content in Jadzia's testimonial. This is the content in Jadzia's testimonial. This is the content in Jadzia's testimonial. This is the content in Jadzia's testimonial. This is the content in Jadzia's testimonial. This is the content in Jadzia's testimonial. This is the content in Jadzia's testimonial. This is the content in Jadzia's testimonial. This is the content in Jadzia's testimonial. This is the content in Jadzia's testimonial. This is the content in Jadzia's testimonial. This is the content in Jadzia's testimonial. This is the content in Jadzia's testimonial. This is the content in Jadzia's testimonial. This is the content in Jadzia's testimonial. This is the content in Jadzia's testimonial. 
