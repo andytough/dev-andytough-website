@@ -42,9 +42,9 @@ collections:
       - {label: "Testimonial author", name: "testimonialauthor", widget: "string"}
       - {label: "Testimonial role", name: "role", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
-  - {label: "Sitemap"
-    name: "sitemap:"
-    widget: "object"
+  - {label: "Sitemap",
+    name: "sitemap:",
+    widget: "object",
     fields:
       - {label: "Sitemap priority", name: "priority", widget: "select", options: ["0.0", "0.5","1.0"]}    
       - {label: "Sitemap change frequency", name: "changefreq", widget: "select", options: ["daily", "weekly", "monthly", "yearly"]}}
