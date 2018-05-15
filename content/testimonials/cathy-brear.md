@@ -5,7 +5,7 @@ draft: false
 testimonialauthor: Cathy
 role: Illustrator
 sitemap:
-  changefreq: yearly
-  priority: '1.0'
+  changefreq: daily
+  priority: '0.0'
 ---
 This is the testimonial by Cathy.
