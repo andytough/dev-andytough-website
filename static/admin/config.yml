@@ -40,9 +40,11 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "changefreq"
     label: "Sitemap change frequency"
+    folder: "content/" # The path to the folder where the documents are stored
     widget: "select"
     options: ["daily", "weekly", "monthly","yearly"]
   - name: "priority"
     label: "Sitemap priority"
+    folder: "content/" # The path to the folder where the documents are stored
     widget: "select"
     options: ["0.0", "0.5", "1.0"]
