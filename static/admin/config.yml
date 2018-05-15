@@ -38,3 +38,11 @@ collections:
       - {label: "Testimonial author", name: "testimonialauthor", widget: "string"}
       - {label: "Testimonial role", name: "role", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "changefreq"
+    label: "Sitemap change frequency"
+    widget: "select"
+    options: ["daily", "weekly", "monthly","yearly"]
+  - name: "priority"
+    label: "Sitemap priority"
+    widget: "select"
+    options: ["0.0", "0.5", "1.0"]
