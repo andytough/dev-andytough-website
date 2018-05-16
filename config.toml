@@ -29,11 +29,18 @@ sectionPagesMenu = "main"
     weight = 5
 
 [[menu.main]]
-    identifier = "portfolio"
-    name = "Portfolio"
-    title = "Portfolio"
-    url = "/portfolio/"
+    identifier = "clients"
+    name = "Clients"
+    title = "Clients"
+    url = "/clients/"
     weight = 10
+
+[[menu.main]]
+    identifier = "gallery"
+    name = "Gallery"
+    title = "Gallery"
+    url = "/gallery/"
+    weight = 11
 
 [[menu.main]]
     identifier = "articles"

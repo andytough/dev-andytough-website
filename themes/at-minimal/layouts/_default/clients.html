@@ -1,0 +1,19 @@
+{{ define "main" -}}
+<ul class="image-list">
+{{ range .Data.Pages -}}
+<li class="thumb u-pull-left">
+<a href="{{ .RelPermalink }}" title="{{ .Title }}" alt="{{ .Title }}">
+<picture alt="{{ .Title }}">
+  <source media="print" srcset="{{ .Params.img }}">
+  <source media="(max-width: 400px)"
+          srcset="{{ .Params.img }}">
+  <source media="(max-width: 2048px)"
+          srcset="{{ .Params.img }}">
+  <img src="{{ .Params.img }}" title="{{ .Title }}" alt="{{ .Params.img }}">
+</picture>
+<h3 class="image-title">{{ .Title }}
+</h3>
+</a>  </li>
+{{- end }}
+</ul>
+{{- end }}
