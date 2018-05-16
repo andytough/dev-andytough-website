@@ -1,5 +1,5 @@
 ---
-title: Pdti
+title: PDTI
 date: 2018-05-17T00:33:03+01:00
 draft: false
 website: pdti.org
