@@ -2,9 +2,21 @@
 {{- $path := .Get "path" -}}
 {{- $files := readDir $path -}}
 <div>
+<ul class="image-list">
 {{- range $files }}
-  <figure>
-      <img src="{{ $pathURL }}{{ .Name | relURL }}"> {{ .Name }}</a>
-  </figure>
+<li class="thumb u-pull-left">
+<a href="#" title="{{ .Name }}" alt="{{ .Name }}">
+<picture alt="{{ .Name }}">
+  <source media="print" srcset="{{ $pathURL }}{{ .Name | relURL }}">
+  <source media="(max-width: 400px)"
+          srcset="{{ $pathURL }}{{ .Name | relURL }}">
+  <source media="(max-width: 2048px)"
+          srcset="{{ $pathURL }}{{ .Name | relURL }}">
+  <img src="{{ $pathURL }}{{ .Name | relURL }}" title="{{ .Name }}" alt="{{ .Name }}">
+</picture>
+<h3 class="image-title">{{ .Name }}</h3>
+</a>
+</li>
 {{- end }}
+</ul>
 </div>
