@@ -4,3 +4,5 @@ date: 2018-03-17T01:07:29.000Z
 draft: false
 ---
 This is the portfolio page.
+
+{{< gallery path="/static/images/gallery" pathURL="/images/gallery" >}}
