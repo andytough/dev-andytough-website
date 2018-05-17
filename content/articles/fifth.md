@@ -5,4 +5,3 @@ draft: false
 ---
 This is the fifth post. It has a picture of a dog in it now.
 
-{{< gallery path="/static/images/gallery" pathURL="/images/gallery" >}}
